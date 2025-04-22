@@ -1,2 +1,2 @@
 # DRA-Net
-coding later
+This DRA-Net work for seismic data reconstruction 
