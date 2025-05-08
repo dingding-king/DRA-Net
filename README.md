@@ -34,7 +34,7 @@ project-root/
 
 loss 
 
-![image-20250508093100119](C:\Users\ding\AppData\Roaming\Typora\typora-user-images\image-20250508093100119.png)
+![image-20250508093100119](./pictures/image-20250508093100119.png)
 
 result
 
