@@ -34,15 +34,15 @@ project-root/
 
 loss 
 
-![image-20250508093100119](../pictures/image-20250508093100119.png)
+![image-20250508093100119](./pictures/image-20250508093100119.png)
 
 result
 
-![image-20250508093328685](C:\Users\ding\AppData\Roaming\Typora\typora-user-images\image-20250508093328685.png)
+![image-20250508093328685](./pictures/image-20250508093328685.png)
 
-![image-20250508094843432](C:\Users\ding\AppData\Roaming\Typora\typora-user-images\image-20250508094843432.png)
+![image-20250508094843432](./pictures/image-20250508094843432.png)
 
-![image-20250508094921910](C:\Users\ding\AppData\Roaming\Typora\typora-user-images\image-20250508094921910.png)
+![image-20250508094921910](./pictures/image-20250508094921910.png)
 
 
 
@@ -50,4 +50,4 @@ result
 
 data
 
-![image-20250508094342077](C:\Users\ding\AppData\Roaming\Typora\typora-user-images\image-20250508094342077.png)
+![image-20250508094342077](././pictures/image-20250508094342077.png)
